@@ -1,0 +1,25 @@
+Number of energies       Number of states to store      Coupling Matrix
+      10                           0                            1
+
+Legendre File
+Legendre.dat
+
+Legendre Points
+     10
+
+ Shift    Shift2	Order    Left	Right 
+-7.0d0      -0.01d0        5         1    0
+
+   alpha          m1          m2       m3         DD                       L
+  1.0000d0       1.0d0       1.0d0    1.0d0      0.853138729379683d0    1.0d0
+
+xPoints    xMin       xMax  
+40        0.0d0      1.570796326794897d0
+
+ RSteps   RDerivDelt     RFirst    RLast
+  100       0.0001d0      0.0002d0     40.0d0
+
+
+c Pi/2=1.5707963267948966
+c Pi/6=0.52359877559829882
+
